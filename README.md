@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm [MUHAMMED HAMDAN KP]
 
-### [Artificial Intelligence | Machine Learning | Deep Learning | DATA SCIENTIST |Exploring Gen AI]
+### Artificial Intelligence | Machine Learning | Deep Learning | DATA SCIENTIST |Exploring Gen AI
 
 ### 👨‍💻 About Me
 I am a passionate developer with interests in [Artificial Intelligence and a Computer Science & Diploma Graduate with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning and Gen AI. I enjoying Completing my ML, DL Projects and am always eager to explore new technologies and solve challenging problems.]. 
