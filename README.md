@@ -8,7 +8,7 @@
 I am a passionate developer with interests in [Artificial Intelligence and a Computer Science & Diploma Graduate with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning and Gen AI. I enjoying Completing my ML, DL Projects and am always eager to explore new technologies and solve challenging problems.]. 
 
 - 👯 I’m looking to collaborate on [open-source projects related to machine learning and Deep Learning.].
-- 📫 How to reach me:   **hamdanmhkp854@gmail.com**
+- 📫 How to reach me:   **[ hamdanmhkp854@gmail.com ]**
 - 💬 Ask me about: **[Python, Machine Learning, Deep Laerning, Gen AI, Power BI]**.
 
 ### 🛠️ My Skills
@@ -43,10 +43,6 @@ Here's a breakdown of the technologies I work with:
 ### 🛡️ Backend & DevOps
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-00C853?style=for-the-badge&logo=django-rest-framework&logoColor=white)
-
-## ⚡ Activity Graph:
-
-![Muhammed Hamdan's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true)
 
 ## 📊 GitHub Stats:
 
